@@ -1,0 +1,13 @@
+C:\Users\r041604014\source\repos\ArrongShop\bin\Debug\netcoreapp3.1\ArrongShop.exe
+C:\Users\r041604014\source\repos\ArrongShop\bin\Debug\netcoreapp3.1\ArrongShop.deps.json
+C:\Users\r041604014\source\repos\ArrongShop\bin\Debug\netcoreapp3.1\ArrongShop.runtimeconfig.json
+C:\Users\r041604014\source\repos\ArrongShop\bin\Debug\netcoreapp3.1\ArrongShop.runtimeconfig.dev.json
+C:\Users\r041604014\source\repos\ArrongShop\bin\Debug\netcoreapp3.1\ArrongShop.dll
+C:\Users\r041604014\source\repos\ArrongShop\bin\Debug\netcoreapp3.1\ArrongShop.pdb
+C:\Users\r041604014\source\repos\ArrongShop\obj\Debug\netcoreapp3.1\ArrongShop.csproj.AssemblyReference.cache
+C:\Users\r041604014\source\repos\ArrongShop\obj\Debug\netcoreapp3.1\ArrongShop.AssemblyInfoInputs.cache
+C:\Users\r041604014\source\repos\ArrongShop\obj\Debug\netcoreapp3.1\ArrongShop.AssemblyInfo.cs
+C:\Users\r041604014\source\repos\ArrongShop\obj\Debug\netcoreapp3.1\ArrongShop.csproj.CoreCompileInputs.cache
+C:\Users\r041604014\source\repos\ArrongShop\obj\Debug\netcoreapp3.1\ArrongShop.dll
+C:\Users\r041604014\source\repos\ArrongShop\obj\Debug\netcoreapp3.1\ArrongShop.pdb
+C:\Users\r041604014\source\repos\ArrongShop\obj\Debug\netcoreapp3.1\ArrongShop.genruntimeconfig.cache
