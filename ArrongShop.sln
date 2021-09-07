@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrongShop", "ArrongShop.csproj", "{045F81DF-7A76-4E99-9383-4B3D904232D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrongShop", "ArrongShop.csproj", "{045F81DF-7A76-4E99-9383-4B3D904232D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityApplication", "..\UniversityApplication\UniversityApplication.csproj", "{4DA0B4C4-AAE5-4DD5-B3DB-BE5AA6DC5F12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{045F81DF-7A76-4E99-9383-4B3D904232D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{045F81DF-7A76-4E99-9383-4B3D904232D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{045F81DF-7A76-4E99-9383-4B3D904232D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA0B4C4-AAE5-4DD5-B3DB-BE5AA6DC5F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA0B4C4-AAE5-4DD5-B3DB-BE5AA6DC5F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA0B4C4-AAE5-4DD5-B3DB-BE5AA6DC5F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA0B4C4-AAE5-4DD5-B3DB-BE5AA6DC5F12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
